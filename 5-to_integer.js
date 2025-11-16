@@ -3,5 +3,5 @@ let integerValue = parseInt(arguments, 10);
 if (isNaN(integerValue)) {
     console.log("Not a number") 
 } else {
-    console.log("my number: " + integerValue);
+    console.log("My number: " + integerValue);
 }
